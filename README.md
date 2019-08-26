@@ -1,2 +1,2 @@
-# nancyyu17.github.io
-Web Project Host
+# Web Project Repo
+This repository hosts some of my web projects.
